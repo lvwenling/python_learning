@@ -30,3 +30,4 @@ day_name = day + ending[day_number-1]
 
 print mouth_name + ' ' + day_name + '. ' + year
 
+print raw_input()
