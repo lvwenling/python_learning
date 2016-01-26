@@ -1,4 +1,5 @@
 # -*- coding:UTF-8 -*-
+
 def hanoi(a, b, c, n):
     if n == 1:
         print a, '->', c
